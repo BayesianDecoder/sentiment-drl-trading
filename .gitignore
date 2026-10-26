@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+.tools/
+
+# Data / models / experiment tracking (large, regenerable)
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.parquet
+saved_models/
+mlruns/
+mlflow.db
+results/
+
+# Model weights (too large for GitHub — hosted on HuggingFace)
+*.safetensors
+finetune_llm/Qwen2.5-3B-MLX-fp16/
+finetune_llm/Qwen2.5-3B-SEntFiN-LoRA-HPtuned/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Logs
+*.log

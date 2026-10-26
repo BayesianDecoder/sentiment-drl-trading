@@ -1,0 +1,730 @@
+[
+  {
+    "ticker": "INFY.NS",
+    "headline": "Infosys (INFY) Q1 2027 Earnings Call Transcript",
+    "date": "2026-07-24T00:47:28",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/07/23/infosys-infy-q1-2027-earnings-call-transcript/",
+    "sentiment_score": -0.9928,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "Infosys Ltd (INFY) Q1 2027 Earnings Call Highlights: AI Services Surge Amidst Revenue Challenges",
+    "date": "2026-07-23T19:01:36",
+    "url": "https://finance.yahoo.com/technology/ai/articles/infosys-ltd-infy-q1-2027-190136887.html",
+    "sentiment_score": 0.9974,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "Organon & Co. Shareholders Clear Sun Pharma Merger Deal",
+    "date": "2026-07-23T15:07:23",
+    "url": "https://www.marketbeat.com/instant-alerts/organon-co-shareholders-clear-sun-pharma-merger-deal-2026-07-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
+    "sentiment_score": -0.8364,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading",
+    "date": "2026-07-23T14:33:44",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143344950.html",
+    "sentiment_score": -0.1799,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "Infosys Q1 Earnings Call Highlights",
+    "date": "2026-07-23T13:06:19",
+    "url": "https://www.marketbeat.com/instant-alerts/infosys-q1-earnings-call-highlights-2026-07-23/?utm_source=yahoofinance&utm_medium=yahoofinance",
+    "sentiment_score": -0.991,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "Infosys Cuts Revenue Forecast as IT Service Demand Remains Muted",
+    "date": "2026-07-23T11:09:04",
+    "url": "https://finance.yahoo.com/technology/articles/infosys-cuts-revenue-forecast-demand-110904155.html",
+    "sentiment_score": -0.0123,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "Infosys Cuts Revenue Forecast as IT Service Demand Remains Muted",
+    "date": "2026-07-23T11:09:04",
+    "url": "https://finance.yahoo.com/technology/articles/infosys-cuts-revenue-forecast-demand-110904155.html",
+    "sentiment_score": -0.0123,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "India's Infosys misses quarterly revenue view, names CEO designate",
+    "date": "2026-07-23T11:07:53",
+    "url": "https://sg.finance.yahoo.com/news/indias-infosys-misses-quarterly-revenue-110753519.html",
+    "sentiment_score": -0.6938,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "date": "2026-07-23T06:09:13",
+    "url": "https://finance.yahoo.com/technology/articles/servicenow-bets-40-million-indian-060913817.html",
+    "sentiment_score": 0.2604,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly",
+    "date": "2026-07-23T00:00:00",
+    "url": "https://finance.yahoo.com/energy/articles/global-refiners-cutting-oil-traders-000000289.html",
+    "sentiment_score": -0.8166,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "South West Pinnacle Exploration Ltd (NSE:SOUTHWEST) Q1 2027 Earnings Call Highlights: Record ...",
+    "date": "2026-07-22T19:00:21",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/south-west-pinnacle-exploration-ltd-190021733.html",
+    "sentiment_score": 0.8577,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "India's SBI Funds Management rises nearly 9% in debut after $1.03 billion IPO",
+    "date": "2026-07-21T04:45:09",
+    "url": "https://sg.finance.yahoo.com/news/indias-sbi-funds-management-rises-042001305.html",
+    "sentiment_score": 0.9958,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "Indian shares open lower, dragged by HDFC Bank; higher oil also weighs",
+    "date": "2026-07-20T04:01:11",
+    "url": "https://sg.finance.yahoo.com/news/indian-shares-may-open-tad-023435425.html",
+    "sentiment_score": -0.0007,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "Billionaire Mukesh Ambani's Reliance beats first-quarter profit view",
+    "date": "2026-07-17T13:55:28",
+    "url": "https://sg.finance.yahoo.com/news/billionaire-mukesh-ambanis-reliance-beats-135528001.html",
+    "sentiment_score": 0.9786,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "Reliance Founders Lift Stake by Most Since 2019 as Stock Slumps",
+    "date": "2026-07-17T11:38:28",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/reliance-founders-lift-stake-most-113828883.html",
+    "sentiment_score": 0.7792,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "India's Wipro slips as weak forecast deepens growth slowdown fears",
+    "date": "2026-07-17T09:45:19",
+    "url": "https://sg.finance.yahoo.com/news/indias-wipro-slips-weak-forecast-040323545.html",
+    "sentiment_score": -0.001,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "IT, financials lead Indian benchmarks higher; Reliance, private banks up ahead of results",
+    "date": "2026-07-17T05:28:21",
+    "url": "https://sg.finance.yahoo.com/news/indian-shares-seen-opening-flat-021956007.html",
+    "sentiment_score": 0.997,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "IT, financials lead Indian benchmarks higher; Reliance, private banks up ahead of results",
+    "date": "2026-07-17T05:28:21",
+    "url": "https://sg.finance.yahoo.com/news/indian-shares-seen-opening-flat-021956007.html",
+    "sentiment_score": 0.997,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "Wipro (WIT) Q1 2027 Earnings Call Transcript",
+    "date": "2026-07-17T00:32:36",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/07/16/wipro-wit-q1-2027-earnings-call-transcript/",
+    "sentiment_score": -0.9932,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "Wipro Ltd (WIT) Q1 2027 Earnings Call Highlights: Navigating Growth and Challenges with ...",
+    "date": "2026-07-16T21:00:36",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wipro-ltd-wit-q1-2027-210036427.html",
+    "sentiment_score": -0.7223,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "Ondo Finance partners with SBI Group to bring Japanese stocks onchain",
+    "date": "2026-07-16T20:36:05",
+    "url": "https://www.thestreet.com/crypto/markets/ondo-finance-partners-with-sbi-group-to-bring-japanese-stocks-onchain",
+    "sentiment_score": -0.9751,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "XRP Price Prediction: Can XRP Hit Double Digits?",
+    "date": "2026-07-16T19:06:58",
+    "url": "https://247wallst.com/investing/cryptocurrency/2026/07/16/xrp-price-prediction-can-xrp-hit-double-digits/",
+    "sentiment_score": -0.923,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "India's SBI Funds Management draws $31 billion in country's fourth-most-bid IPO",
+    "date": "2026-07-16T18:05:11",
+    "url": "https://sg.finance.yahoo.com/news/indias-sbi-funds-management-draws-143235036.html",
+    "sentiment_score": -0.9264,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "Indian court orders Maruti to replace car in first E20 fuel damage ruling",
+    "date": "2026-07-16T14:39:23",
+    "url": "https://sg.finance.yahoo.com/news/indian-court-orders-maruti-replace-121955757.html",
+    "sentiment_score": -0.4338,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "India's Jio Financial profit jumps on growth across businesses",
+    "date": "2026-07-16T13:20:34",
+    "url": "https://sg.finance.yahoo.com/news/indias-jio-financial-profit-jumps-132034938.html",
+    "sentiment_score": 0.9963,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "Wipro Q1 Earnings Call Highlights",
+    "date": "2026-07-16T13:02:54",
+    "url": "https://www.marketbeat.com/instant-alerts/wipro-q1-earnings-call-highlights-2026-07-16/?utm_source=yahoofinance&utm_medium=yahoofinance",
+    "sentiment_score": -0.9724,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "TCS opens industrial AI lab in Bengaluru in partnership with Nvidia",
+    "date": "2026-07-16T11:03:14",
+    "url": "https://www.verdict.co.uk/tcs-opens-industrial-ai-lab/",
+    "sentiment_score": -0.9864,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "India's Wipro lags peers after earnings miss, weak forecast",
+    "date": "2026-07-16T10:23:01",
+    "url": "https://finance.yahoo.com/technology/articles/indias-wipro-misses-first-quarter-102301190.html",
+    "sentiment_score": -0.0009,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "India's Wipro misses first-quarter revenue view",
+    "date": "2026-07-16T10:23:01",
+    "url": "https://sg.finance.yahoo.com/news/indias-wipro-misses-first-quarter-102301446.html",
+    "sentiment_score": -0.0027,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "India's Wipro lags peers after earnings miss, weak forecast",
+    "date": "2026-07-16T10:23:01",
+    "url": "https://finance.yahoo.com/technology/articles/indias-wipro-misses-first-quarter-102301190.html",
+    "sentiment_score": -0.0009,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "SBI hires former LIC finance head Sunil Agrawal as CFO",
+    "date": "2026-07-15T15:12:07",
+    "url": "https://sg.finance.yahoo.com/news/state-bank-india-names-sunil-150153534.html",
+    "sentiment_score": -0.9948,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "India's SBI Funds' $1 billion IPO fully subscribed amid bets on market growth",
+    "date": "2026-07-15T08:21:29",
+    "url": "https://sg.finance.yahoo.com/news/indias-sbi-funds-ipo-fully-051900559.html",
+    "sentiment_score": 0.948,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "Wipro Builds AI Momentum With Capco Recognition and Major METRO Project",
+    "date": "2026-07-15T00:28:16",
+    "url": "https://finance.yahoo.com/technology/ai/articles/wipro-builds-ai-momentum-capco-002816032.html",
+    "sentiment_score": 0.9948,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "Ripple\u2019s Biggest Shareholder Is Building Institutional XRP Lending in Japan",
+    "date": "2026-07-14T13:30:21",
+    "url": "https://247wallst.com/investing/cryptocurrency/2026/07/14/ripples-biggest-shareholder-is-building-institutional-xrp-lending-in-japan/",
+    "sentiment_score": -0.727,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "XRP Price to $0.54? 50% Crash Warning as SBI and Solana Partnership Hits Japan",
+    "date": "2026-07-14T13:27:15",
+    "url": "https://www.ccn.com/news/crypto/xrp-price-bearish-predictions-sbi-solana-venture-japan/",
+    "sentiment_score": -0.0011,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "Software Stocks Sink as IBM Miss Delivers \u2018Devastating Blow\u2019",
+    "date": "2026-07-14T12:19:58",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/software-stocks-sink-ibm-miss-121958301.html",
+    "sentiment_score": -0.0012,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "ABB taps TCS to overhaul global network operations with AI",
+    "date": "2026-07-14T12:05:06",
+    "url": "https://www.verdict.co.uk/abb-taps-tcs-network-operations/",
+    "sentiment_score": -0.9471,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "SBIN.NS",
+    "headline": "Citi, others dial back India rate hike calls as inflation expected to stay moderate",
+    "date": "2026-07-14T10:43:17",
+    "url": "https://sg.finance.yahoo.com/news/citi-others-dial-back-india-104317090.html",
+    "sentiment_score": -0.8662,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "India's TCS bags multi-million contract from industrial giant ABB",
+    "date": "2026-07-13T06:37:08",
+    "url": "https://sg.finance.yahoo.com/news/indias-tcs-bags-multi-million-063708306.html",
+    "sentiment_score": -0.8007,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+    "date": "2026-07-12T08:36:49",
+    "url": "https://sg.finance.yahoo.com/news/indias-tata-consultancy-services-plans-083649966.html",
+    "sentiment_score": -0.9854,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "India's TCS rises after quarterly\u00a0revenue beat",
+    "date": "2026-07-10T03:56:27",
+    "url": "https://sg.finance.yahoo.com/news/indias-tcs-rises-quarterly-revenue-035627890.html",
+    "sentiment_score": 0.9967,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "Indian shares set to open higher; TCS in focus after revenue beat",
+    "date": "2026-07-10T02:37:10",
+    "url": "https://sg.finance.yahoo.com/news/indian-shares-set-open-higher-023710144.html",
+    "sentiment_score": 0.9976,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "Tata Consultancy Services Ltd (BOM:532540) Q1 2027 Earnings Call Highlights: Strong Revenue ...",
+    "date": "2026-07-09T21:00:54",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tata-consultancy-services-ltd-bom-210054791.html",
+    "sentiment_score": 0.9703,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+    "date": "2026-07-09T12:00:00",
+    "url": "https://finance.yahoo.com/technology/articles/nandan-nilekani-leaves-gp-role-120000672.html",
+    "sentiment_score": -0.9814,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TCS.NS",
+    "headline": "India's TCS tops revenue estimates on weak rupee, banking boost",
+    "date": "2026-07-09T11:47:05",
+    "url": "https://sg.finance.yahoo.com/news/indias-tcs-beats-first-quarter-102955034.html",
+    "sentiment_score": 0.9902,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "India's Dr Reddy's on track for worst day in 3 years as semaglutide supplies hit",
+    "date": "2026-07-09T06:55:23",
+    "url": "https://finance.yahoo.com/healthcare/articles/dr-reddys-delays-semaglutide-supply-045431594.html",
+    "sentiment_score": -0.0022,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "India's JK Tyre plans 11%-13% price hikes by September-end",
+    "date": "2026-07-09T06:50:29",
+    "url": "https://sg.finance.yahoo.com/news/indias-jk-tyre-plans-11-065029335.html",
+    "sentiment_score": -0.0223,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "Infosys Limited (INFY) Partners with Sentara To Enable AI Integration and Use in Hospitals",
+    "date": "2026-07-08T15:51:30",
+    "url": "https://finance.yahoo.com/technology/ai/articles/infosys-limited-infy-partners-sentara-155130172.html",
+    "sentiment_score": -0.7873,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Tuesday Trading",
+    "date": "2026-07-07T14:40:50",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144050720.html",
+    "sentiment_score": -0.0187,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "INFY.NS",
+    "headline": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
+    "date": "2026-07-06T09:45:37",
+    "url": "https://finance.yahoo.com/technology/articles/indian-firms-face-muted-q1-094537453.html",
+    "sentiment_score": -0.158,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "headline": "Indian IT firms face muted Q1 as AI shift, weak demand weigh",
+    "date": "2026-07-06T09:45:37",
+    "url": "https://finance.yahoo.com/technology/articles/indian-firms-face-muted-q1-094537453.html",
+    "sentiment_score": -0.158,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "India's Tata Motors PV aims to nearly double revenue, volume by 2031",
+    "date": "2026-06-23T11:53:08",
+    "url": "https://sg.finance.yahoo.com/news/indias-tata-motors-pv-aims-115308291.html",
+    "sentiment_score": 0.6276,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "Sun Pharma to acquire Innovcare Lifesciences for $28.7m",
+    "date": "2026-06-22T10:03:35",
+    "url": "https://www.pharmaceutical-technology.com/news/sun-pharma-to-buy-innovcare-lifesciences/",
+    "sentiment_score": -0.9696,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "Meta (META) Builds Its First India AI Data Center With Reliance",
+    "date": "2026-06-22T05:09:16",
+    "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-builds-first-india-050916545.html",
+    "sentiment_score": -0.9737,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "Billionaire Ambani wants AI in every call, app, and home",
+    "date": "2026-06-19T15:23:28",
+    "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-ambani-wants-ai-every-152328329.html",
+    "sentiment_score": -0.6865,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "headline": "Reliance\u2019s Jio Platforms to Seek India Listing",
+    "date": "2026-06-19T10:57:00",
+    "url": "https://www.wsj.com/finance/reliances-jio-platforms-to-seek-india-listing-ed1d8397?siteid=yhoof2&yptr=yahoo",
+    "sentiment_score": -0.9905,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "India's Tata Motors to hike commercial vehicle prices by up to 2.5% from July",
+    "date": "2026-06-18T06:07:52",
+    "url": "https://sg.finance.yahoo.com/news/indias-tata-motors-raise-commercial-054723323.html",
+    "sentiment_score": 0.6515,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "India clears way for self-driving, safety car tech to reduce road deaths",
+    "date": "2026-06-12T08:08:16",
+    "url": "https://sg.finance.yahoo.com/news/india-clears-way-self-driving-080816900.html",
+    "sentiment_score": -0.8477,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "India's L&T to invest nearly $2 billion in Tamil Nadu, state government says",
+    "date": "2026-06-04T10:35:27",
+    "url": "https://sg.finance.yahoo.com/news/indias-l-t-invest-nearly-103527851.html",
+    "sentiment_score": -0.9304,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "Indian automakers' sales rise in May despite rising fuel prices",
+    "date": "2026-06-01T11:34:09",
+    "url": "https://sg.finance.yahoo.com/news/indian-automakers-sales-rise-may-113409868.html",
+    "sentiment_score": 0.9969,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "Indian automakers' sales rise in May despite rising fuel prices",
+    "date": "2026-06-01T11:34:09",
+    "url": "https://sg.finance.yahoo.com/news/indian-automakers-sales-rise-may-113409868.html",
+    "sentiment_score": 0.9969,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "Suzuki opens second plant in Kharkhoda, India",
+    "date": "2026-05-28T08:57:03",
+    "url": "https://www.just-auto.com/news/suzuki-opens-second-plant-in-kharkhoda-india/",
+    "sentiment_score": -0.978,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "Hyundai Motor India to implement planned car price hikes from\u00a0June",
+    "date": "2026-05-27T10:05:21",
+    "url": "https://sg.finance.yahoo.com/news/hyundai-motor-india-implement-planned-100521908.html",
+    "sentiment_score": -0.9466,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "India's Maruti Suzuki adopts fuel-saving measures",
+    "date": "2026-05-26T12:35:39",
+    "url": "https://sg.finance.yahoo.com/news/indias-maruti-suzuki-adopts-fuel-123539017.html",
+    "sentiment_score": -0.8771,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "LTM bids $186m for Randstad\u2019s tech services in Europe and Australia",
+    "date": "2026-05-25T09:46:48",
+    "url": "https://www.verdict.co.uk/ltm-bids-186m-randstads-services/",
+    "sentiment_score": 0.1512,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "India's top drugmaker Sun Pharma beats profit view on specialty drugs demand",
+    "date": "2026-05-22T09:28:36",
+    "url": "https://www.yahoo.com/news/articles/indias-top-drugmaker-sun-pharma-092836996.html",
+    "sentiment_score": 0.6198,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "India's top carmaker Maruti Suzuki to hike prices as input costs climb",
+    "date": "2026-05-21T13:55:55",
+    "url": "https://sg.finance.yahoo.com/news/indias-top-carmaker-maruti-suzuki-135555159.html",
+    "sentiment_score": -0.0526,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "India's top carmaker Maruti Suzuki to hike prices as input costs climb",
+    "date": "2026-05-21T13:55:55",
+    "url": "https://sg.finance.yahoo.com/news/indias-top-carmaker-maruti-suzuki-135555159.html",
+    "sentiment_score": -0.0526,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "Stellantis and JLR sign US product development MoU",
+    "date": "2026-05-21T09:14:21",
+    "url": "https://www.just-auto.com/news/stellantis-jlr-us-product-development-mou/",
+    "sentiment_score": -0.9881,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "Stellantis Explores US Partnership With Jaguar Land Rover After $13 Billion Pledge",
+    "date": "2026-05-20T18:23:23",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stellantis-explores-us-partnership-jaguar-182323642.html",
+    "sentiment_score": -0.3553,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "Tata Motors Passenger Vehicles Ltd (BOM:500570) Q4 2026 Earnings Call Highlights: Strong ...",
+    "date": "2026-05-19T01:01:58",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/tata-motors-passenger-vehicles-ltd-010158168.html",
+    "sentiment_score": 0.9878,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "Auto & Transport Roundup: Market Talk",
+    "date": "2026-05-15T21:11:00",
+    "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-a2871152?siteid=yhoof2&yptr=yahoo",
+    "sentiment_score": -0.5124,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "Tata Motors quarterly earnings fall 29.72%",
+    "date": "2026-05-15T13:57:53",
+    "url": "https://www.just-auto.com/news/tata-motors-quarterly-earnings-fall/",
+    "sentiment_score": -0.0005,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "TMPV.NS",
+    "headline": "India's Tata Motors Passenger Vehicles posts quarterly profit fall as JLR weighs",
+    "date": "2026-05-14T11:14:51",
+    "url": "https://sg.finance.yahoo.com/news/indias-tata-motors-passenger-vehicles-110715013.html",
+    "sentiment_score": 0.0002,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "Organon Buyout By Sun Pharma Shifts Focus To Cash Value And Timing",
+    "date": "2026-05-07T12:12:05",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/organon-buyout-sun-pharma-shifts-121205526.html",
+    "sentiment_score": -0.883,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "India's L&T hits three-week low after profit dip, slower growth outlook",
+    "date": "2026-05-06T05:25:50",
+    "url": "https://sg.finance.yahoo.com/news/indias-l-t-hits-three-040049978.html",
+    "sentiment_score": 0.0002,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "India's L&T expects fiscal revenue growth may temper on Middle East disruption",
+    "date": "2026-05-05T15:43:28",
+    "url": "https://sg.finance.yahoo.com/news/indias-larsen-toubro-quarterly-profit-114014774.html",
+    "sentiment_score": -0.198,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "Indian shares dip, rupee slips to record low on elevated oil prices",
+    "date": "2026-05-05T10:28:21",
+    "url": "https://sg.finance.yahoo.com/news/indian-shares-set-open-lower-024139331.html",
+    "sentiment_score": -0.0005,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "India's Mahindra expects mid\u2011to\u2011high teens SUV growth, beats quarterly forecasts",
+    "date": "2026-05-05T09:22:38",
+    "url": "https://sg.finance.yahoo.com/news/indias-mahindra-mahindra-beats-quarterly-065902397.html",
+    "sentiment_score": 0.9872,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "headline": "Indian shares advance as easing oil, state election results boost sentiment",
+    "date": "2026-05-04T10:27:56",
+    "url": "https://sg.finance.yahoo.com/news/indian-shares-poised-open-higher-024011950.html",
+    "sentiment_score": 0.9971,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "Organon (OGN)\u2019s Investors React Strongly as Sun Pharma Bets Big on Specialty Drug Expansion",
+    "date": "2026-05-01T14:46:05",
+    "url": "https://finance.yahoo.com/sectors/healthcare/articles/organon-ogn-investors-react-strongly-144605332.html",
+    "sentiment_score": 0.9982,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "Micron initiated, Rambus downgraded: Wall Street's top analyst calls",
+    "date": "2026-04-28T14:19:52",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/micron-initiated-rambus-downgraded-wall-141952763.html",
+    "sentiment_score": -0.0104,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "Organon & Co. (OGN) Soars to 52-Week High on $11.75-Billion Sun Merger",
+    "date": "2026-04-28T02:16:45",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/organon-co-ogn-soars-52-021645451.html",
+    "sentiment_score": 0.9969,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "Stock Market Today, April 27: Organon Shares Surge After Sun Pharma Agrees to Acquire Company in All Cash Deal",
+    "date": "2026-04-27T21:54:26",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/04/27/stock-market-today-april-27-organon-shares-surge-after-sun-pharma-agrees-to-acquire-company-in-all-cash-deal/",
+    "sentiment_score": 0.9986,
+    "sentiment_label": "positive"
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "headline": "Sector Update: Health Care Stocks Softer Late Afternoon",
+    "date": "2026-04-27T19:54:31",
+    "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-softer-195431655.html",
+    "sentiment_score": -0.0042,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "Oil and gas contracts activity drops in 2025",
+    "date": "2026-03-26T15:47:34",
+    "url": "https://www.offshore-technology.com/analyst-comment/oil-gas-contracts-activity-drops-2025/",
+    "sentiment_score": -0.0019,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "Indian infra major L&T hits one\u2011month low on concerns over Mideast exposure",
+    "date": "2026-03-04T05:20:41",
+    "url": "https://sg.finance.yahoo.com/news/indias-l-t-hits-one-040624574.html",
+    "sentiment_score": 0.0025,
+    "sentiment_label": "neutral"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "NVIDIA Deepens Role In Global AI Infrastructure With Sovereign And Enterprise Builds",
+    "date": "2026-02-25T03:18:45",
+    "url": "https://finance.yahoo.com/news/nvidia-deepens-role-global-ai-031845840.html",
+    "sentiment_score": -0.4561,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "NVIDIA Ties Blackwell Ultra To Sovereign AI Factories In India And Australia",
+    "date": "2026-02-23T16:10:54",
+    "url": "https://finance.yahoo.com/news/nvidia-ties-blackwell-ultra-sovereign-161054959.html",
+    "sentiment_score": -0.9752,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "LT.NS",
+    "headline": "L&T partners with NVIDIA for gigawatt-scale AI data centre in India",
+    "date": "2026-02-19T11:23:27",
+    "url": "https://www.verdict.co.uk/lt-partners-with-nvidia/",
+    "sentiment_score": -0.9828,
+    "sentiment_label": "negative"
+  },
+  {
+    "ticker": "ITC.NS",
+    "headline": "British American Tobacco plans to offload stake in India's ITC Hotels",
+    "date": "2025-12-04T14:28:27",
+    "url": "https://sg.finance.yahoo.com/news/british-american-tobacco-plans-offload-142827642.html",
+    "sentiment_score": -0.9759,
+    "sentiment_label": "negative"
+  }
+]

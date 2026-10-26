@@ -1,0 +1,5 @@
+agent,config,sharpe_mean,sharpe_std,sharpe_min,sharpe_max,return_mean,return_std
+a2c,NoSA,2.0829,0.2312,1.8192,2.3495,0.5753,0.093
+a2c,OptSA_Vol,1.9,0.4694,1.4641,2.6625,0.5088,0.1837
+td3,NoSA,2.102,0.3125,1.8418,2.6064,0.4747,0.167
+td3,OptSA_Vol,2.2929,0.1764,2.0894,2.505,0.6996,0.2059

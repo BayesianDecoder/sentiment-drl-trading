@@ -1,0 +1,41 @@
+# ── Core ML ──────────────────────────────────
+torch>=2.1.0
+torchvision
+transformers>=4.40.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+accelerate>=0.27.0
+datasets>=2.18.0
+evaluate>=0.4.0
+
+# ── Classical ML ─────────────────────────────
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+lightgbm>=4.5.0
+
+# ── Experiment Tracking ───────────────────────
+mlflow>=2.12.0
+
+# ── Data ─────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.26.0
+
+# ── Visualization ─────────────────────────────
+matplotlib>=3.8.0
+seaborn>=0.13.0
+wordcloud>=1.9.0
+
+# ── RL (for later) ────────────────────────────
+stable-baselines3>=2.3.0
+gymnasium>=0.29.0
+yfinance>=0.2.37
+pandas-ta>=0.3.14b
+
+# ── API (for later) ───────────────────────────
+fastapi>=0.110.0
+uvicorn>=0.29.0
+
+# ── Utils ────────────────────────────────────
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+requests>=2.31.0
